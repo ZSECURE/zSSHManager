@@ -19,6 +19,14 @@ Menu:
 
 Enter your choice: 
 ```
+## Example servers.txt file
+The format is IP_Address,Username,Password
+``` bash
+192.168.0.1,root,toor
+192.68.1.1,root,toor
+192.168.10.1,root,toor
+```
+
 
 ## Pre Requisites
 Fabric==3.2.1
