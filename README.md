@@ -34,7 +34,7 @@ invoke==2.2.0
 paramiko==3.3.1
 
 ## Version Control
-- Name: Qualys Cloud Agent Scripts
+- Name: zSSHManager
 - Author: Zak Clifford 
 
 ## Versioning
